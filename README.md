@@ -1,13 +1,13 @@
 #Explanation of hello_world.asm
 
-#Hello world in assembly the lowest level of programming
+#Hello world in assembly, the lowest level of programming
 
 
 This hello world programme contain two sections that define the memory layout 
-that this code where should be stored in.
+where this code should be stored in.
 
 The first section is the text ".text", that contain the main instruction in the code,
-like move "mov" and interrupt for "int".
+like move "mov" and interrupt "int".
 
 And the the Data section ".data" that contains the message itself the "hello world!\n", 
 and the length of the message.
